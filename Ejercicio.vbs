@@ -47,5 +47,6 @@ voz.Speak Base64ToString("TGFzIHNpZ3VpZW50ZXMgcGVyc29uYXMgcmVhbGl6YXJvbiBlbCBlam
 voz.Speak "Jose Velez alias el profe" 
 ' De aquí hacia abajo los estudiantes.
 voz.Speak "Jose Alexander Preciado Garay"
+voz.Speak "juan florez alias anonimo crack perfec"
 
 voz.Speak Base64ToString("U2kgbm8gZXNjdWNow7Mgc3Ugbm9tYnJlLCBkZWJlIHJlYWxpemFyIGVsIGVqZXJjaWNpbyBvdHJhIHZlegoK")
