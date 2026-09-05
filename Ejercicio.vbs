@@ -46,6 +46,7 @@ voz.Volume = 100 ' volumen: 0 a 100
 voz.Speak Base64ToString("TGFzIHNpZ3VpZW50ZXMgcGVyc29uYXMgcmVhbGl6YXJvbiBlbCBlamVyY2ljaW8gY29ycmVjdGFtZW50ZTo=")
 voz.Speak "Jose Velez alias el profe" 
 ' De aquí hacia abajo los estudiantes.
-voz.Speak "Jose Alexander Preciado Garay"
+voz.Speak "Jose Manuel Florez Rodriguez"
+voz.Speak "Santiago Quintana Torres"
 
 voz.Speak Base64ToString("U2kgbm8gZXNjdWNow7Mgc3Ugbm9tYnJlLCBkZWJlIHJlYWxpemFyIGVsIGVqZXJjaWNpbyBvdHJhIHZlegoK")
